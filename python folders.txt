@@ -1,0 +1,31 @@
+This README is for explating what to do before you even start programming due to our classes software we couldn't do 
+this so I'm just going to write out what you will need to do in this program 
+first I will treat this as a proper project so you will learn proper naming for project files and folders for example if i put
+this in a folder i would of called this main.py in a folder called scourse reson why is simple but it will be explained in the
+step by step section which is now 
+
+step 1 install python3/anaconda 
+the install is normally a very simple as run the installer, make sure that you have PATHS box tickt once you see it as it
+will setup the cmd paths for you incase you are using cmd for running the software
+
+step 2 using pip/conda 
+this is a tool used for install libarise as we will be using them for the deep learning tasks and there is a very important 
+one called virtualenv to install it just type this line into the command line 
+pip install virtualenv 
+
+this software allow you to manage separate package installations for different projects. 
+They essentially allow you to create a “virtual” isolated Python installation and install packages into that virtual installation. 
+When you switch projects, you can simply create a new virtual environment and not have to worry about breaking the packages installed in the other environments. 
+It is always recommended to use a virtual environment while developing Python applications.
+
+this will also be the project folder where we start from. So in other ways this could also be the step 1 
+next we shall create the virtual environment using this line below
+py -m venv env 
+
+the env is the folder name so you will want to change that to the name of project once in that folder you will create the scource 
+folder and put the main.py in there 
+
+to activate the environment in your console you will need to use this line
+.\env\Scripts\activate 
+remember that env name is changed 
+to end the venv just type deactivate in the console now we can get to the program

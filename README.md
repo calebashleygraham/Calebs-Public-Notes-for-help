@@ -17,5 +17,6 @@ https://www.apachefriends.org/index.html
 
 this will be inculding a whole range of tools kind of like visual studio only for any part of programming which will be free for students
 https://www.jetbrains.com/
+(WARNING THIS IS ONLY 1 YEAR FREE AFTER IT'S £500 FOR ALL SOFTWARE)
 
 this will be updated repo will be getting updated every weekend with new files and notes

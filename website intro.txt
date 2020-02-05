@@ -1,0 +1,12 @@
+before we get started i will link below will give you some documantaion and some files that will be needed in the assienment 2 of web development 
+
+Bootstarp
+https://getbootstrap.com/docs/4.4/getting-started/introduction/
+
+jquery
+https://jquery.com/
+
+if you use the Bootstrap CDN links and copied them into the html code.
+you will note need the jquery libariy link you only need to download the files if only you want to edit it or by download it will load faster.
+
+the fies i include are only parts of my own peronal project with minor changas with added comments 

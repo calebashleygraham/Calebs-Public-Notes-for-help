@@ -1,0 +1,26 @@
+/*change the background to a image that does not repeat*/
+/* body{
+  background: url()
+  background-repeat: no-repeat;
+} */
+/*long version of changing a border and background of a div tag*/
+/* div{
+  background: blue;
+  border-width: 20px;
+  border-style: solid
+  border: orange;
+} */
+/*short version*/
+div{
+  background: blue;
+  border:red 10px dashed;
+}
+
+p{
+  color:yellow;
+}
+/*change background and color of the span inside the div tag*/
+span{
+  background: red;
+  color:black;
+}

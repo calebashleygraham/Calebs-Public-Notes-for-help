@@ -2,10 +2,10 @@
 this Repository is made to be a sudo copy of our class work only it will retain notes extra comments and definitions
 repo I will be also sharing 
 notes for unity as well and be sharing some python and other misc topics within programming
-this I have books on learning the programming lang 
+this I have books on learning the programming  
 
 
-do to us doing web development this year this repo will also teach you some ways on backend lang which last year we only did the front so i will be going over javascript php and python as thay are the three i haved used 
+due to us doing web development this year this repo will also teach you some ways on front-end and maybe back-end  
 
 beloew are links to software you may want for the subjects if you are following along at home
 
@@ -19,4 +19,3 @@ this will be inculding a whole range of tools kind of like visual studio only fo
 https://www.jetbrains.com/
 (WARNING THIS IS ONLY 1 YEAR FREE AFTER IT'S £500 FOR ALL SOFTWARE pycharm has a free version and android studio is free)
 
-this will be updated repo will be getting updated every weekend with new files and notes
